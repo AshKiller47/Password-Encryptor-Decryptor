@@ -1,2 +1,2 @@
 # Password-Encryptor-Decryptor
-Safety Tools for the Dark Web
+A Password Encryptor and Decryptor program, providing safety on the Dark Web.
